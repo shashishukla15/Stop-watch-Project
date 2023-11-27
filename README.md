@@ -1,5 +1,6 @@
 # Stop-watch-Project
 Coding Ninjas Skill Test
+
 A clock helps us in our quest to utilize our time efficiently. To assist you to excel in this quest we are building a digital stopwatch.
 This stopwatch represents the time in DD:HH:MM: SS (day:hour:minute: second) format, making it easy to keep track of our time.
 The functionalities of Start, Stop, Reset, Lap, and Clear Lap are accessible with a click of a button.
